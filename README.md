@@ -1,4 +1,5 @@
-# Publications
+# Annotated Bibliography
+## Publications
 
 1. Carlton EF, **McHugh WM**, McDonough K, Sturza J, Desch K, Cornell TT. Markers of Endothelial Dysfunction and Cytokines in High-Risk Pediatric Patients with Severe Sepsis. *Am J Respir Crit Care Med* 2020; **201**(3): 380-384. [doi: 10.1164/rccm.201904-0910LE](https://www.atsjournals.org/doi/epdf/10.1164/rccm.201904-0910LE)
 2. Beshish AG, Bradley JD, McDonough KL, Halligan NLN, **McHugh WM**, Sturza J, Hall MW, Cornell TT, Dahmer MK. The functional Immune Response of Patients on Extracorporeal Life Support. *ASAIO J* 2019; **65**(1): 77-83. [doi: 10.1097/MAT.0000000000000748](https://journals.lww.com/asaiojournal/_layouts/15/oaks.journals/downloadpdf.aspx?trckng_src_pg=ArticleViewer&an=00002480-201901000-00011)
@@ -10,3 +11,9 @@
 8. Chen P, Chung MT, **McHugh WM**, Nidetz R, Li Y, Fu J, Cornell TT, Shanley TP, Kurabayashi K. Multiplex serum cytokine immunoassay using nanoplasmonic biosensor microarrays. *ACS Nano* 2015; **9**(4): 4173-81. [doi: 10.1021/acsnano.5b00396](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4447431/pdf/nihms692917.pdf)
 9. Chang HN, Leroueil PR, Selwa K, Gasper CJ, Tsuchida RE, Wang JJ, **McHugh WM**, Cornell TT, Baker JR Jr, Goonewardena SN. Profiling inflammatory responses with microfluidic immunoblotting. *PLoS One* 2013; **8**(11): e81889. [doi: 10.1371/journal.pone.0081889](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0081889&type=printable)
 10. Cornell TT, Fleszar A, **McHugh WM**, Blatt NM, LeVine AM, Shanley TP. Mitogen-activated Protein Kinase Phosphatase 2, MKP-2, Regulates Early Inflammation in Acute Lung Injury. *Am J Physiol Lung Cell Mol Physiol* 2012; **303**(3):L251-8. [doi:10.1152/ajplung.00063.2012](https://journals.physiology.org/doi/epdf/10.1152/ajplung.00063.2012)
+
+## Extramural Invited Presentations
+
+1. “Increasing PP2A activity decreases chemokine production and attenuates inflammation in acute lung injury.” Oral Platform Presentation at the Pediatric Academic Societies 2010 Annual Meeting; Vancouver, British Columbia. May 1-4, 2010.
+2. “Personalized Immunomodulation in High-risk Sepsis Patients in a Pediatric Critical Care Unit.” Society of Critical Care Medicine 46th Critical Care Congress; Honolulu, Hawaii. Jan 21-25, 2017.
+3. “Multiplex, Temporal Immunophenotyping with Microfluidic-based Localized Surface Plasmon Resonance.” Society of Critical Care Medicine 46th Critical Care Congress; Honolulu, Hawaii. Jan 21-25, 2017.
